@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+change
+]]></content>
+	<tabTrigger>onChange</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

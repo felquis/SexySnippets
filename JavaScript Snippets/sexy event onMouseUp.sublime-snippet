@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+mouseup
+]]></content>
+	<tabTrigger>onmouseup</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

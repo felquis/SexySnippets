@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+dragend
+]]></content>
+	<tabTrigger>ondragend</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

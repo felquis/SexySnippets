@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+contextmenu
+]]></content>
+	<tabTrigger>oncontextmenu</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

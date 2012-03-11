@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+cut
+]]></content>
+	<tabTrigger>oncut</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

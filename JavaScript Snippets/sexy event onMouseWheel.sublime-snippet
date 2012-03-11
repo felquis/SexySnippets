@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+mousewheel
+]]></content>
+	<tabTrigger>onmousewheel</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
