@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<audio id="${1:ID}" ${2:autobuffer autoloop loop controls}>
+		<source src="${3:URL FILE}.ogg" type="audio/ogg" />
+		<source src="${3:URL FILE}.mp3" type="audio/mpeg" />
+		<source src="${3:URL FILE}.wav" type="audio/wave" />
+		<p>Seu navegador não suporta audio.<br />Faça <a href="${3:URL FILE}.zip">download de som.zip</a></p>
+</audio>${4:}
+]]></content>
+	<tabTrigger>audio</tabTrigger>
+	<!-- <scope>source.html, source.HTML</scope> -->
+</snippet>
