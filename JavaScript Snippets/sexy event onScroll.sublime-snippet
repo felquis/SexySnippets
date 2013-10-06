@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-scroll
-]]></content>
-	<tabTrigger>onscroll</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-drop
-]]></content>
-	<tabTrigger>onDrop</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

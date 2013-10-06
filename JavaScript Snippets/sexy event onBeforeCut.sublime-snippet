@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-beforecut
-]]></content>
-	<tabTrigger>onbeforecut</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

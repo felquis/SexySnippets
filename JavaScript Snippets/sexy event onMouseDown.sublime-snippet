@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-mousedown
-]]></content>
-	<tabTrigger>onmousedown</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

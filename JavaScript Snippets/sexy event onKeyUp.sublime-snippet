@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-keyup
-]]></content>
-	<tabTrigger>onkeyup</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

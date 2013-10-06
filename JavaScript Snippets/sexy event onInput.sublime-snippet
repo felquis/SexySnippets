@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-input
-]]></content>
-	<tabTrigger>oninput</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

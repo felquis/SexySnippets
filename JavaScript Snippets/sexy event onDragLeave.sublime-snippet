@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dragleave
-]]></content>
-	<tabTrigger>ondragleave</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-mouseout
-]]></content>
-	<tabTrigger>onmouseout</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-click
-]]></content>
-	<tabTrigger>onClick</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-webkitfullscreenchange
-]]></content>
-	<tabTrigger>onwebkitfullscreenchange</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

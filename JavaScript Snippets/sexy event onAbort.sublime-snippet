@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-abort
-]]></content>
-	<tabTrigger>onAbort</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

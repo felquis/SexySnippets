@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-readystatechange
-]]></content>
-	<tabTrigger>onreadystatechange</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

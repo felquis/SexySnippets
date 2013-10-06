@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-beforepaste
-]]></content>
-	<tabTrigger>onbeforepaste</tabTrigger>
-	<scope>source.js</scope>
-</snippet>
