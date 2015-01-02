@@ -5,6 +5,7 @@ What's new?!! :D
 ### HTML
 
 * sx:vp to add meta viewport
+* sx:ga to add Google Analytics
 
 ### Suggestions
 

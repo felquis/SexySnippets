@@ -5,6 +5,7 @@ Available snippets
 ### HTML
 
 * sx:vp + tab | Meta viewport
+* sx:ga + tab | Google Analytics
 
 ### Suggestions
 
