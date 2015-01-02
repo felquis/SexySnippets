@@ -4,4 +4,5 @@
 ]]></content>
   <tabTrigger>sx:vp</tabTrigger>
   <scope>text.html</scope>
+  <description>Meta viewport from HTML5 Boilerplate</description>
 </snippet>

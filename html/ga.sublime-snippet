@@ -12,4 +12,5 @@
 ]]></content>
   <tabTrigger>sx:ga</tabTrigger>
   <scope>text.html</scope>
+  <description>Google Analytics</description>
 </snippet>
