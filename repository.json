@@ -3,10 +3,10 @@
   "packages": [
     {
       "name": "SexySnippets",
-      "details": "https://github.com/wbond/sublime_alignment",
-      "homepage": "http://wbond.net/sublime_packages/alignment",
+      "details": "https://github.com/felquis/SexySnippets",
+      "homepage": "https://github.com/felquis/SexySnippets",
       "author": "felquis",
-      "labels": ["HTML", "javascript", "snippet"],
+      "labels": ["HTML", "javascript", "snippet", "pattern", "CSS"],
       "releases": [
         {
           "sublime_text": "*",
