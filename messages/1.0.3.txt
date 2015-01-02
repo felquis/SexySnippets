@@ -1,10 +1,10 @@
-Thank you for install Sexy Snippets ;)
+Thank you for use Sexy Snippets ;)
 
-Available snippets
+What's new?!! :D
 
 ### HTML
 
-* sx:vp + tab | Meta viewport
+* sx:vp to add meta viewport
 
 ### Suggestions
 

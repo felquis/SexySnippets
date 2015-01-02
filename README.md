@@ -1,3 +1,3 @@
-## Sublime Sexy Snippets
+## Sexy Snippets
 
-Vários snippets que são úteis para mim.
+For Sublime Text
