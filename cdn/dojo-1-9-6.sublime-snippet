@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+//ajax.googleapis.com/ajax/libs/dojo/1.9.6/dojo/dojo.js
+]]></content>
+  <tabTrigger>sx-cdn-dojo-1-9-6></tabTrigger>
+  <!-- <scope>text.html</scope> -->
+  <description>Dojo 1.9.6</description>
+</snippet>
