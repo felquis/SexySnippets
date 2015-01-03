@@ -25,6 +25,7 @@ Available snippets
     > Available: 1-11-3 1-9-6
 1. `sx-cdn-ext-core-3-1-0 + tab` | Ext Core 3.1.0
 1. `sx-cdn-mootools-1-5-1 + tab` | MooTools 1.5.1
+1. `sx-cdn-prototype-1-7-2 + tab` | Prototype 1.7.2
 
 ### Suggestions
 
