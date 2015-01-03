@@ -2,7 +2,7 @@
   <content><![CDATA[
 //ajax.googleapis.com/ajax/libs/dojo/1.10.3/dojo/dojo.js
 ]]></content>
-  <tabTrigger>sx-cdn-dojo-1-11-3></tabTrigger>
+  <tabTrigger>sx-cdn-dojo-1-11-3</tabTrigger>
   <!-- <scope>text.html</scope> -->
   <description>Dojo 1.10.3</description>
 </snippet>

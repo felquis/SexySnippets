@@ -2,7 +2,7 @@
   <content><![CDATA[
 //ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js
 ]]></content>
-  <tabTrigger>sx-cdn-angular-1-3-5></tabTrigger>
+  <tabTrigger>sx-cdn-angular-1-3-5</tabTrigger>
   <!-- <scope>text.html</scope> -->
   <description>AngularJS 1.3.5</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 //ajax.googleapis.com/ajax/libs/jquerymobile/1.4.3/jquery.mobile.min.css
 ]]></content>
-  <tabTrigger>sx-cdn-jquery-mobile-1-4-3></tabTrigger>
+  <tabTrigger>sx-cdn-jquery-mobile-1-4-3</tabTrigger>
   <!-- <scope>text.html</scope> -->
   <description>jQuery Mobile 1.4.3</description>
 </snippet>

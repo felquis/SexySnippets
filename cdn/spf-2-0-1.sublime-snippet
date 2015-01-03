@@ -2,7 +2,7 @@
   <content><![CDATA[
 //ajax.googleapis.com/ajax/libs/spf/2.0.1/spf.js
 ]]></content>
-  <tabTrigger>sx-cdn-spf-2-0-1></tabTrigger>
+  <tabTrigger>sx-cdn-spf-2-0-1</tabTrigger>
   <!-- <scope>text.html</scope> -->
   <description>SPF 2.0.1</description>
 </snippet>
