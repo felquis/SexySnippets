@@ -28,6 +28,7 @@ Available snippets
 1. `sx-cdn-prototype-1-7-2 + tab` | Prototype 1.7.2
 1. `sx-cdn-scriptaculous-1-9-0 + tab` | script.aculo.us 1.9.0
 1. `sx-cdn-spf-2-0-1 + tab` | SPF 2.0.1
+1. `sx-cdn-swfobject-2-2 + tab` | SWFObject 2.2
 
 ### Suggestions
 

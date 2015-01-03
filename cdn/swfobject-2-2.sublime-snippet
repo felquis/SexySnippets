@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js
+]]></content>
+  <tabTrigger>sx-cdn-swfobject-2-2</tabTrigger>
+  <!-- <scope>text.html</scope> -->
+  <description>SWFObject 2.2</description>
+</snippet>
