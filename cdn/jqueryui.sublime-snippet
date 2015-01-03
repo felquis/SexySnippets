@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+]]></content>
+  <tabTrigger>sx-cdn-jquery-ui-1-11-2></tabTrigger>
+  <!-- <scope>text.html</scope> -->
+  <description>jQuery UI 1.11.2</description>
+</snippet>

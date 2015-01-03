@@ -12,6 +12,8 @@ Available snippets
 
 ### CDN
 1. `sx-cdn-jquery-1-11-2 + tab` | jQuery 1.11.2
+1. `sx-cdn-jquery-ui-1-11-2 + tab` | jQuery UI 1.11.2
+1. `sx-cdn-jquery-mobile-1-4-3 + tab` | jQuery Mobile 1.4.3
 
 ### Suggestions
 
