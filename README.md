@@ -32,6 +32,7 @@ Available snippets
 1. `sx-cdn-threejs-69 + tab` | ThreeJS r69
 
     > Available 69 68 67
+1. `sx-cdn-webfont-1-5-6 + tab` | Web Font Loader 1.5.6
 
 ### Suggestions
 
