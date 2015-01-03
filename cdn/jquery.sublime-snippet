@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
+]]></content>
+  <tabTrigger>sx-cdn-jquery-1-11-2></tabTrigger>
+  <!-- <scope>text.html</scope> -->
+  <description>jQuery 1.11.2</description>
+</snippet>
