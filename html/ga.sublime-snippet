@@ -10,7 +10,7 @@
     ga('create','${1:UA-XXXXX-X}','auto');ga('send','pageview');
 </script>
 ]]></content>
-  <tabTrigger>sx:ga</tabTrigger>
+  <tabTrigger>sx-ga</tabTrigger>
   <scope>text.html</scope>
   <description>Google Analytics</description>
 </snippet>

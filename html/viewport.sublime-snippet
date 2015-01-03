@@ -2,7 +2,7 @@
   <content><![CDATA[
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ]]></content>
-  <tabTrigger>sx:vp</tabTrigger>
+  <tabTrigger>sx-vp</tabTrigger>
   <scope>text.html</scope>
   <description>Meta viewport from HTML5 Boilerplate</description>
 </snippet>
