@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+//ajax.googleapis.com/ajax/libs/threejs/r68/three.min.js
+]]></content>
+  <tabTrigger>sx-cdn-threejs-68</tabTrigger>
+  <!-- <scope>text.html</scope> -->
+  <description>ThreeJS r68</description>
+</snippet>

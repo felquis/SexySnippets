@@ -29,6 +29,9 @@ Available snippets
 1. `sx-cdn-scriptaculous-1-9-0 + tab` | script.aculo.us 1.9.0
 1. `sx-cdn-spf-2-0-1 + tab` | SPF 2.0.1
 1. `sx-cdn-swfobject-2-2 + tab` | SWFObject 2.2
+1. `sx-cdn-threejs-69 + tab` | ThreeJS r69
+
+    > Available 69 68 67
 
 ### Suggestions
 
