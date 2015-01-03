@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+//ajax.googleapis.com/ajax/libs/angularjs/1.3.0/angular.min.js
+]]></content>
+  <tabTrigger>sx-cdn-angular-1-3-0></tabTrigger>
+  <!-- <scope>text.html</scope> -->
+  <description>AngularJS 1.3.0</description>
+</snippet>
