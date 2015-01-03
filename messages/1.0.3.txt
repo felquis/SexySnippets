@@ -4,8 +4,11 @@ What's new?!! :D
 
 ### HTML
 
-* sx:vp to add meta viewport
-* sx:ga to add Google Analytics
+* sx-vp to add meta viewport
+* sx-ga to add Google Analytics
+
+### CDN
+* sx-cdn-jquery-1-11-2 + tab | jQuery 1.11.2
 
 ### Suggestions
 

@@ -4,8 +4,11 @@ Available snippets
 
 ### HTML
 
-* sx:vp + tab | Meta viewport
-* sx:ga + tab | Google Analytics
+* sx-vp + tab | Meta viewport
+* sx-ga + tab | Google Analytics
+
+### CDN
+* sx-cdn-jquery-1-11-2 + tab | jQuery 1.11.2
 
 ### Suggestions
 

@@ -6,8 +6,12 @@ Available snippets
 
 ### HTML
 
-1. `sx:vp + tab` | Meta viewport
-1. `sx:ga + tab` | Google Analytics
+1. `sx-vp + tab` | Meta viewport
+1. `sx-ga + tab` | Google Analytics
+
+
+### CDN
+1. `sx-cdn-jquery-1-11-2 + tab` | jQuery 1.11.2
 
 ### Suggestions
 
