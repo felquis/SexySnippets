@@ -16,6 +16,7 @@ Available snippets
 1. `sx-cdn-jquery-mobile-1-4-3 + tab` | jQuery Mobile 1.4.3
 1. `sx-cdn-angular-1-3-5 + tab` | AngularJS 1.3.5
     > Available: 1-3-5, 1-3-0, 1-2-27 1-2-0, 1-0-8
+1. `sx-cdn-angular-material-0-6-1 + tab` | Angular Material 0.6.1
 
 ### Suggestions
 
