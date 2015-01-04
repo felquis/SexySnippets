@@ -9,6 +9,8 @@ Available snippets
 1. `sx-vp + tab` | Meta viewport
 1. `sx-ga + tab` | Google Analytics
 
+### Util
+1. `sx-util-editorconfig + tab` | Editor Config
 
 ### CDN
 1. `sx-cdn-jquery-1-11-2 + tab` | jQuery 1.11.2
