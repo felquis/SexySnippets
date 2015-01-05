@@ -2,6 +2,10 @@
 
 For Sublime Text
 
+### Installation
+
+Install via **Package Control** or just clone the repository to the Sublime “Packages” directory.
+
 Available snippets
 
 ### HTML
