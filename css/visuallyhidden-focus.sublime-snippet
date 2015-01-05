@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}${0}
+]]></content>
+  <tabTrigger>sx-hide-visuallyhidden-focusable</tabTrigger>
+  <scope>source.css</scope>
+  <description>Hide and still focusable</description>
+</snippet>
