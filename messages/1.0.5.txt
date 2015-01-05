@@ -1,0 +1,17 @@
+Thank you for use Sexy Snippets ;)
+
+What's new?!! :D
+
+### CSS
+
+1. sx-clearfix
+1. sx-hide-visuallyhidden
+1. sx-hide-visuallyhidden-focusable
+
+
+### Util
+1. sx-util-editorconfig
+
+### Suggestions
+
+Please create a issue at https://github.com/felquis/SexySnippets/issues
