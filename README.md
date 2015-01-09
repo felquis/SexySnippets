@@ -12,6 +12,7 @@ Available snippets
 
 1. `sx-vp + tab` | Meta viewport
 1. `sx-ga + tab` | Google Analytics
+1. `sx-html-basic + tab` | Basic HTML estructure
 
 ### CSS
 
