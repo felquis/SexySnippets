@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<meta property="og:title" content="${1:title}"/>
+<meta property="og:locale" content="${2:pt_BR}" />
+<meta property="og:site_name" content="${3:Site Name}" />
+<meta property="og:type" content="website" />
+<meta property="fb:admins" content="${4:1445769708, 1664507756}" />
+<meta property="og:description" content="${5:Description}">
+]]></content>
+  <tabTrigger>sx-facebook-tags</tabTrigger>
+  <scope>text.html</scope>
+  <description>Facebook Open Graph</description>
+</snippet>

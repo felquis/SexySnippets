@@ -20,6 +20,10 @@ Available snippets
 1. `sx-hide-visuallyhidden`
 1. `sx-hide-visuallyhidden-focusable`
 
+### Facebook
+
+1. `sx-facebook-tags + tabs` | Facebook Open Graph tags
+
 
 ### Util
 1. `sx-util-editorconfig`
