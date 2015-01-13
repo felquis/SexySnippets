@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[
+<!-- To help you understand these tags, visit http://j.mp/1FNq3lh -->
 <meta property="og:title" content="${1:title}"/>
 <meta property="og:locale" content="${2:pt_BR}" />
 <meta property="og:site_name" content="${3:Site Name}" />
