@@ -33,6 +33,7 @@ Available snippets
 1. `sx-cdn-jquery-ui-1-11-2`
 1. `sx-cdn-jquery-mobile-1-4-3`
 1. `sx-cdn-bootstrap-3-3-2`
+1. `sx-cdn-font-awesome-4-2-0`
 1. `sx-cdn-angular-1-3-5` | Available: 1-3-5, 1-3-0, 1-2-27 1-2-0, 1-0-8
 1. `sx-cdn-angular-material-0-6-1`
 1. `sx-cdn-dojo-1-11-3` | Available: 1-11-3 1-9-6
