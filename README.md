@@ -27,6 +27,7 @@ Available snippets
 
 ### Util
 1. `sx-util-editorconfig`
+1. `sx-util-editorconfig-short`
 
 ### CDN
 1. `sx-cdn-jquery-1-11-2` | Available: 2-1-3 1-11-2

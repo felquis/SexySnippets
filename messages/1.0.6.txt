@@ -1,0 +1,10 @@
+Thank you for using Sexy Snippets ;)
+
+What's new?!! :D
+
+### Util
+1. sx-util-editorconfig-short
+
+### Suggestions
+
+Please create a issue at https://github.com/felquis/SexySnippets/issues
