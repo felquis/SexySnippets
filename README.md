@@ -1,6 +1,8 @@
 ## Sexy Snippets
 
-For Sublime Text
+Useful collection of snippets for the every**day** of every **Web Developer**
+
+Please, [contribute to our next Milestone](https://github.com/felquis/SexySnippets/milestones/v1.0.6), pull request are welcome.
 
 ### Installation
 
